@@ -20,3 +20,5 @@
 ##### 출처
 - https://velog.io/@jaemaning/NextJS-%EB%A1%9C-%EA%B0%9C%EC%9D%B8-Blog-%EC%A0%9C%EC%9E%91%ED%95%B4%EB%B3%B4%EA%B8%B0-ep.1  
 - https://miryang.dev/blog/build-blog-with-nextjs
+- https://blog.naver.com/greenmint0_0/222932264474
+- https://miryang.dev/blog/build-blog-with-nextjs
