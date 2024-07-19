@@ -2,7 +2,7 @@
   "name": "portflio-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://winterrain1127.github.io/", 
+  "homepage": "https://winterrain1127.github.io/winterrain1127", 
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export",
